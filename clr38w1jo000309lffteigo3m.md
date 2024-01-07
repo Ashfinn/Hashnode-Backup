@@ -90,7 +90,7 @@ else:
 
 As we embark on creating our text adventure game, logic will be our trusty guide through the twists and turns of the story. We'll use conditional statements to determine the outcome of choices the player makes.
 
-## Making the Game
+# Making the Game
 
 We are going to make the game as basic and small as possible. So that you can make the rest yourself. The basic premise is like this -&gt;
 
