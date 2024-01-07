@@ -18,7 +18,7 @@ Before we dive into the code, let's learn some theories. Specifically, the impor
 
 but first we need to know some stuff.
 
-## The Theories
+# The Theories
 
 I know it's scary, but you can't deny that theory is important. You have to at least know what a function is and what logic means before jumping into it. So, let me give you a brief overview.
 
