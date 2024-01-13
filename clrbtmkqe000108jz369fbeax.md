@@ -46,7 +46,7 @@ print(response.status_code)
 print(response.json())
 ```
 
-In this example, we're fetching a to-do item from the **JSONPlaceholder API**. `get` is a method from **Requests**, and we print the status code and JSON content received.
+In this example, we're fetching a to-do item from the **JSONPlaceholder API**. `get` is a method from **Requests**, and we print the status code and **JSON** content received. You can learn more about JSON from here -&gt; [JSON](https://ashfin.hashnode.dev/demystifying-json-for-beginners)
 
 **Example 2: Making a POST Request**
 
