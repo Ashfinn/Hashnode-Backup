@@ -150,7 +150,7 @@ pattern = r'[Ii]f (.*?), then'
 
 We will get this output: `Extracted conditions: ["I'm not in a hurry", 'I leave']`
 
-## **Your Toolbox: Essential**`re` Functions
+## **Your Toolbox: Essential** `re` Functions
 
 Now, let's explore some more handy tools in the `re` toolbox:
 
