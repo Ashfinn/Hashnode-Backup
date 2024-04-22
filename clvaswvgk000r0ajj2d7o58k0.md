@@ -10,11 +10,11 @@ tags: machine-learning, beginners, mathematics, linear-algebra, matrix, vector
 
 ---
 
-### Fundamental Concepts of Linear Algebra
+# Fundamental Concepts of Linear Algebra
 
 Linear algebra is the secret weapon of machine learning. It helps algorithms manipulate data like pros, efficiently. In this comprehensive guide, we dive into the fundamentals to better understand how it powers machine learning. Let's dig in!
 
-### Vectors
+## Vectors
 
 [![Vector](https://cdn1.byjus.com/wp-content/uploads/2021/03/Vector.png align="center")](https://byjus.com/maths/types-of-vectors/)
 
@@ -31,7 +31,7 @@ Linear algebra is the secret weapon of machine learning. It helps algorithms man
     * For example, in a dataset of images, each image can be represented as a vector where each dimension represents the intensity of a pixel. Similarly, in text classification, each document can be represented as a vector where each dimension represents the frequency of a particular word.
         
 
-### Matrices
+## Matrices
 
 [![Last Minute Notes - Engineering Mathematics - GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/matrix-9.png align="center")](https://www.geeksforgeeks.org/last-minute-notes-engineering-mathematics/)
 
@@ -48,7 +48,7 @@ Linear algebra is the secret weapon of machine learning. It helps algorithms man
     * Matrices enable efficient manipulation and analysis of datasets, facilitating tasks such as data pre-processing, feature engineering, and model training.
         
 
-### Vector Spaces
+## Vector Spaces
 
 [![](https://steemitimages.com/640x0/https://image.slidesharecdn.com/vectorspaces-basissem2icb12015-150717172138-lva1-app6892/95/vector-spaces-19-638.jpg?cb=1437153823 align="center")](https://steemit.com/mathematics/@drifter1/mathematics-linear-algebra-vector-spaces)
 
@@ -63,7 +63,7 @@ Linear algebra is the secret weapon of machine learning. It helps algorithms man
     * Machine learning models can be represented and manipulated as vectors in a vector space. For example, the parameters of a linear regression model form a vector in the parameter space, and the predictions of the model can be represented as vectors in the output space.
         
 
-### Linear Transformations
+## Linear Transformations
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713779037020/1ed67302-bec3-4d2a-ba92-fea870ec1af3.png align="center")
 
