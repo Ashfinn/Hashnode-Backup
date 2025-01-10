@@ -5,6 +5,7 @@ seoDescription: "Create a personalized movie picker! Learn Python web scraping t
 datePublished: Fri Jan 19 2024 06:13:16 GMT+0000 (Coordinated Universal Time)
 cuid: clrk8vg3d000g09jz4hr58qfs
 slug: making-a-movie-recommendation-app-with-python-and-beautiful-soup
+canonical: https://medium.com/@obidur.rahman/letterboxd-movie-picker-38aafb1887fb
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704825095915/097da173-f5c9-4197-8f84-73d996ec464d.jpeg
 tags: python, html5, web-scraping, beautifulsoup, movies, letterboxd
 
